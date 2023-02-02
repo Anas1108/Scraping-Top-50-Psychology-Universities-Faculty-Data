@@ -12,7 +12,7 @@ This project requires the following libraries to be installed in your Python env
 ## Steps to Run the Project
 1. Clone or download the project repository to your local machine.
 2. Navigate to the project directory in your terminal or command prompt.
-3. Install the required libraries by running `pip install -r requirements.txt`
+3. Install the required libraries
 4. Run the `main.py` script by executing `python main.py`
 5. The scraped faculty data will be saved in a CSV file named `faculty_data.csv` in the project directory.
 
